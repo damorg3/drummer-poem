@@ -5,8 +5,9 @@ jub jub
 *rest*
 bap
 *rest* 
-boom
 bap
+CRASH 
+SPLASH
 dugga
 dugga 
 buddha buddha 
